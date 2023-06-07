@@ -1,7 +1,7 @@
 title: Min 2023 旅行
 description: 旅行计划
 
-remote_theme: rundocs/jekyll-rtd-theme
+theme: null
 
 # debug:
 #   compress: true
